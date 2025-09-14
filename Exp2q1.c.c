@@ -9,4 +9,5 @@ scanf("%d",&b);
  d=(a+b)*2;
 printf("Perimeter is %d",d);
 printf("\nArea is %d",c);
+//Priyanshu
 }
