@@ -5,4 +5,5 @@ int main(){
     scanf("%d",&c);
     f=(c*9/5)+32;
     printf("Temp in Fahrenheit is %d",f);
+//priyanshu
 }
