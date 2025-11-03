@@ -21,4 +21,5 @@ int main() {
     printf("a = %d, b = %.2f, c = %c\n", a, b, c);
 
     return 0;
+
 }
